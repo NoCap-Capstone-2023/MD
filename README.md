@@ -65,9 +65,13 @@ The app provides the following features for the user:
 
 ### Depedencies
 * [Firebase](https://firebase.google.com/?hl=id)
+    - used for google signIn method
 * [Material Dialog](https://github.com/afollestad/material-dialogs?tab=readme-ov-file)
+    - used for creating dialog with material design
 * [RoomDb](https://developer.android.com/training/data-storage/room?hl=id)
+    - used for saving data in the local
 * [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+    - used for API Network Request
 
 ## Software and hardware requirements
 The app is designed to run on mobile devices running Android 10.0 or later.
